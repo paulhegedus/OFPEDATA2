@@ -3,11 +3,8 @@
 
 # OFPEDATA <img src="man/figures/msu_coa_logo.png" align="right" width="120" /> <img src="man/figures/OFPE_logo.png" align="right" width="120" />
 
-<!-- badges: start -->
-
 [![Travis build
 status](https://travis-ci.com/paulhegedus/OFPEDATA.svg?branch=master)](https://travis-ci.com/paulhegedus/OFPEDATA)
-<!-- badges: end -->
 
 Example data from Montana State University’s On-Farm Precision
 Experiments project. Used to demonstrate the utility of the OFPE Tools
