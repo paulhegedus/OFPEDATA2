@@ -5,6 +5,8 @@
 
 <!-- badges: start -->
 
+[![Travis build
+status](https://travis-ci.com/paulhegedus/OFPEDATA.svg?branch=master)](https://travis-ci.com/paulhegedus/OFPEDATA)
 <!-- badges: end -->
 
 Example data from Montana State University’s On-Farm Precision
