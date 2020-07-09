@@ -3,6 +3,7 @@
 
 # OFPEDATA <img src="man/figures/msu_coa_logo.png" align="right" width="120" /> <img src="man/figures/OFPE_logo.png" align="right" width="120" />
 
+![R-CMD-check](https://github.com/paulhegedus/OFPEDATA/workflows/R-CMD-check/badge.svg)
 [![Travis build
 status](https://travis-ci.com/paulhegedus/OFPEDATA.svg?branch=master)](https://travis-ci.com/paulhegedus/OFPEDATA)
 
