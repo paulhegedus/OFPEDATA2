@@ -1,0 +1,33 @@
+Package: OFPEDATA
+Version: 0.0.0.9000
+Title: OFPE Demo Data
+Description: This package contains example data related to the On-Farm 
+    Precision Experiments (OFPE) project at Montana State University. This data
+    is used to demonstrate the usage of the OFPE Tools R-package in the 
+    associated vignettes of that package. It contains field and farm boundaries
+    as well as raw data collected on farms. This data is primarily used to show
+    users how to set up their OFPE formatted PostgreSQL database in the first 
+    step of the OFPE data workflow. See the OFPE Tools package for more 
+    information and links to further resources.
+    OFPE Tools Github: https://github.com/paulhegedus/OFPE.git
+Authors@R: c(
+    person(given = "Paul",
+           family = "Hegedus",
+           role = c("aut", "cre"),
+           email = "paulhegedus@montana.edu",
+           comment = c(ORCID = "0000-0002-6288-4345")),
+    person(given = "Bruce",
+           family = "Maxwell",
+           role = c("ctb"),
+           email = "bmax@montana.edu",
+           comment = c(ORCID = "000-0001-7775-9419")),
+    person(given = "Gary Broyles",
+           role = c("ctb"))
+    person(given = "Montana State University", 
+           role = c("cph"))
+    )
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
