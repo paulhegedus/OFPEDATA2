@@ -65,6 +65,16 @@ Technical Website](https://paulhegedus.github.io/OFPE-Website/) and the
 [OFPE Project Website](https://sites.google.com/site/ofpeframework/) for
 more detailed information on the OFPE data workflow and project.
 
+There are three fields from three different farmers included in the
+package. Two are conventionally managed fields where the varied input is
+nitrogen fertilizer, and one is an organic field where the seeding rate
+is varied. Both conventionally managed fields are in Montana and have
+had two years of experimentation (2016 and 2018) and include as-applied
+nitrogen fertilizer, winter wheat yield, and grain protein content. The
+organically managed field is in Manitoba, and contains spring wheat
+yield and seeding rates from 2019 and the previous crop, oats, yield
+from 2017.
+
 ## Funding
 
 The OFPE project was initially funded by the Montana Research and
