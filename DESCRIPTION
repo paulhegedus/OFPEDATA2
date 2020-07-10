@@ -1,6 +1,6 @@
 Package: OFPEDATA
 Version: 0.0.0.9000
-Title: OFPE Demo Data
+Title: On-Farm Precision Experiments Demo Data
 Description: This package contains example data related to the On-Farm 
     Precision Experiments (OFPE) project at Montana State University. This data
     is used to demonstrate the usage of the OFPE Tools R-package in the 
