@@ -19,7 +19,7 @@
 #'   \item{\code{IsoTime}}{character International Organization for Standardization (ISO) date and time format.}
 #'   \item{\code{Machine}}{integer Machine identifier code.}
 #'   \item{\code{orig_fl}}{character Original shapefile name.}
-#'   \item{\code{geometry}}{list Coordinates of seeding points.}}
+#'   \item{\code{geometry}}{list Coordinates of seeding points.}
 #'}
 #' @details DETAILS
 "FarmerC_SR_2019"

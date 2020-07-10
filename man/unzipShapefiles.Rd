@@ -21,7 +21,7 @@ name and returns a 'sf' object.
 }
 \examples{
 \dontrun{
-unzipShapefiles("zipped_data_filename", "path_to_data")
+unzipShapefiles("zipped_data_filename", "path/to/data")
 }
 
 }
