@@ -8,11 +8,15 @@
 #' @param zip_file character
 #'
 #' @return sf
-#' @export
+#'
+#' @importFrom magrittr %>%
 #'
 #' @examples
-#' unzipShapefiles("zipped_data_filename", "path_to_data")
+#' \dontrun{
+#' unzipShapefiles("zipped_data_filename", "path/to/data")
+#' }
 #'
+#' @export
 unzipShapefiles <- function(zip_file, path) {
   temp <- tempfile()
   utils::unzip(paste0(path, zip_file), exdir = temp)

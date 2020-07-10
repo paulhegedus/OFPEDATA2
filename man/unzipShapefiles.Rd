@@ -20,6 +20,8 @@ Unzips compressed files containing ESRI shapefiles from the
 name and returns a 'sf' object.
 }
 \examples{
+\dontrun{
 unzipShapefiles("zipped_data_filename", "path_to_data")
+}
 
 }
