@@ -20,9 +20,6 @@ Authors@R: c(
            role = c("ctb"),
            email = "bmax@montana.edu",
            comment = c(ORCID = "000-0001-7775-9419")),
-    person(given = "Gary",
-           family = "Broyles",
-           role = c("ctb")),
     person(given = "Montana State University", 
            role = c("cph"))
     )
